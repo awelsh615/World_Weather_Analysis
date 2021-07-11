@@ -27,6 +27,6 @@ The three main deliverables for this project are as follows (with links):
 - Weather Database containing 700+ unique cities worldwide:
 - [Database Jupyter Notebook](Weather_Database/Weather_Database.ipynb)
 - Vacation Search database and map containing cities meeting temperature parameters:
-- [Vacation Search Jupyter Notebook]
+- [Vacation Search Jupyter Notebook](Vacation_Search/Vacation_Search.ipynb)
 - Vacation Itinerary with driving map for four nearby cities meeting temperature parameters:
 - [Vacation Itinerary Jupyter Notebook]
