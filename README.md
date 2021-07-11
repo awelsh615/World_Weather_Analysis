@@ -29,4 +29,4 @@ The three main deliverables for this project are as follows (with links):
 - Vacation Search database and map containing cities meeting temperature parameters:
 - [Vacation Search Jupyter Notebook](Vacation_Search/Vacation_Search.ipynb)
 - Vacation Itinerary with driving map for four nearby cities meeting temperature parameters:
-- [Vacation Itinerary Jupyter Notebook]
+- [Vacation Itinerary Jupyter Notebook](Vacation_Itinerary/Vacation_Itinerary.ipynb)
