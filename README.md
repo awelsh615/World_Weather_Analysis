@@ -18,7 +18,15 @@ After creating the cities, I used the OpenWeather API Key to pull current weathe
 
 Finally, I wrote code that will create a Vacation Itinerary, with driving map, of four close-by cities that satisfied a set of weather parameters, such as the one below.
 
-![Vacation_Itinerary/WeatherPy_travel_map_markers.PNG]
-
+![Travel Map](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
 ### Jupyter Notebook Files
+
+The three main deliverables for this project are as follows (with links):
+
+- Weather Database containing 700+ unique cities worldwide:
+- 
+- Vacation Search database and map containing cities meeting temperature parameters:
+- 
+- Vacation Itinerary with driving map for four nearby cities meeting temperature parameters:
+- 
